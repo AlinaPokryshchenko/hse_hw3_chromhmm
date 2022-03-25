@@ -23,4 +23,16 @@ H3k36me3|http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadH
 ![transitions](/results_10/transitions_10.png)|![emissions](/results_10/emissions_10.png)|![fold1](/results_10/Monocytes-CD14+_RO01746_10_overlap.png)|![fold2](/results_10/Monocytes-CD14+_RO01746_10_RefSeqTES_neighborhood.png)|![fold3](/results_10/Monocytes-CD14+_RO01746_10_RefSeqTSS_neighborhood.png)
  -|-|-|-|-
 
+### Из геномного браузера
+![1_genome](/images/1_genome.png)
+![2_genome](/images/2_genome.png)
+![3_genome](/images/3_genome.png)
 
+### Итог
+Состояние|1|2|3|4|5|6|7|8|9|10
+Наиболее часто встречающиеся гистоновые метки|1|2|3|4|5|6|7|8|9|10
+Области генома, в которых чаще встречаются|1|2|3|4|5|6|7|8|9|10
+Как расположены относительно старта транскрипции|1|2|3|4|5|6|7|8|9|10
+Как расположены относительно конца транскрипции|1|2|3|4|5|6|7|8|9|10
+Состояния, которые часто расположены рядом|1|2|3|4|5|6|7|8|9|10
+Итоговое название|1|2|3|4|5|6|7|8|9|10
