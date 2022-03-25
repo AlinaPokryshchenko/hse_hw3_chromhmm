@@ -19,6 +19,8 @@ H3k36me3|http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadH
 Ссылка на контроль: http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneMonocd14ro1746ControlAlnRep1.bam
 
 ### Выдача ChromHMM
-![transitions]()|![emissions]()|![fold1]()|![fold2]()|![fold3]()
+
+![transitions](/results_10/transitions_10.png)|![emissions](/results_10/emissions_10.png)|![fold1](/results_10/Monocytes-CD14+_RO01746_10_overlap.png)|![fold2](/results_10/Monocytes-CD14+_RO01746_10_RefSeqTES_neighborhood.png)|![fold3](/results_10/Monocytes-CD14+_RO01746_10_RefSeqTSS_neighborhood.png)
+ -|-|-|-|-
 
 
